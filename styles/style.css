@@ -1,0 +1,102 @@
+.xq-example {
+	
+}
+
+.content-post {
+	width: 600px;
+	margin: 0px auto;
+	background: #fff;
+	padding: 15px 20px 20px;
+	box-shadow: 0 1px 0 0 #d7d8db, 0 0 0 1px #e3e4e8;
+	border-radius: 2px;
+	margin-bottom: 15px;
+	position: relative;
+	display: block;
+	overflow: hidden;
+}
+
+.content-header {
+	border-bottom: 1px solid #ccc;
+	position:relative;
+}
+
+.content-title {
+	font-size: 135%;
+	padding-bottom: 5px;
+	padding-right: 40px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.content-title a {
+	text-decoration: none;
+	color: #000;
+}
+
+.content-title a:hover {
+	color: #b00;
+}
+
+.content-date {
+	position: absolute;
+	right: 2px;
+	top: 4px;
+	font-size: 75%;
+	color: rgb(147, 147, 147);
+	font-weight: 600;
+}
+
+.content-image {
+	margin-top: 15px;
+	text-align: center;
+}
+.content-image img {
+	max-width: 100%;
+	height: auto;
+}
+
+.content-excerpt {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.content-downmeta {
+	position:relative;
+	border-top: 1px solid #ccc;
+}
+
+.content-tags {
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 20px;
+	width: 80%;
+	display: inline-block;
+}
+
+.content-tags a {
+	text-decoration: none;
+	color: #000;
+}
+
+.content-tags a:hover {
+	color: #b00;
+}
+
+.content-tags a:before {
+	content: "#";
+}
+
+.content-comments {
+	position: relative;
+	float: right;
+	display: inline-block;
+}
+
+.content-comments a {
+	color: #000;
+	text-decoration: none;
+}
+
+.content-comments a:hover {
+	color: #b00;
+}
